@@ -1,0 +1,243 @@
+Agenda:
+1. Workshop on AWS essentials
+
+Cloud Computing
+Your college needs an website
+
+Software Development LifeCycle (SDLC)
+1. Gather requirements
+Users - functionality
+2. Prototyping  - html/css/js
+3. Design
+technology,components,interfaces
+database
+UI design
+4. Coding
+5. Testing by development
+6. Testing by Testing team
+Setup server,database,network,deploy the application
+webserver
+database server
+buy server/rent server
+7. go live
+buy domain - www.newhorizonbca.edu
+Live server with internet connection
+install os,other software on the server
+set up application on the server
+
+Cloud computing
+
+Data Center
+
+1. AWS - Amazon Web Service
+2. Azure - Microsoft
+3. Google Cloud - Google
+
+Amazon - book seller 
+
+AWS
+
+Deployment Model
+public  cloud - BMTC - AWS - Virtual server - instance - cost is less-shared
+private cloud - exclusively for you - cost is more (set up your own infrastructure)
+hybrid cloud  - part of application in public and private
+community cloud - exclusively for a community
+
+
+Service Model
+IAAS - Infrastructure As A Service
+PAAS - Platform As A Service - ready to use
+SAAS - Software As A Service - Netflix,OTT,gmail
+
+AWS Services
+EC2 - Elastic Cloud Compute
+S3 - Simple Storage Solution
+RDS - Relational Database Service
+
+Hands-on 
+
+1. Create a simple webpage/website
+2. Deploy webpage on a webserver
+
+Visual Studio Code community edition
+1. create programs folder
+2. open programs folder in visual studio code
+3. create index.html file
+4. Open in a browser
+
+Web Server
+live server
+In VS Code click on the extensions
+
+http://127.0.0.1:29226/
+
+Webservers
+nginx [engineX]
+Apache
+IIS - Internet Information Server
+
+download and install nginx webserver
+https://nginx.org/en/download.html
+
+http://localhost/
+
+
+Sign Up with AWS
+2 rupees
+
+https://aws.amazon.com/
+
+Root User
+IAM User
+
+Zones
+Regions
+DataCenter
+
+Service - EC2 - Elastic Cloud Compute
+search for ec2
+
+Launch Instance
+name : nhcebcaawsdemo1
+
+AMI - Amazon Machine Image
+Ubuntu
+key pair
+public key - private key
+create new key pair
+
+check
+Allow Https
+Allow Http 
+
+Connect to server
+
+clear
+ls
+ls -la
+pwd
+/home/ubuntu
+
+python3 --version
+
+vi test.txt
+type any text
+to save
+escape 
+:wq!
+
+ls
+
+cat test.txt
+
+install nginx on ubuntu
+
+
+https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview
+
+
+sudo apt update
+sudo apt install nginx
+
+public ip
+private ip
+13.232.251.147
+
+cd /var/www/html/
+ls
+index....
+cat inde<tab>
+
+to modify the file
+sudo vi inde<tab>
+press i
+change the content
+press esc :wq!
+
+
+ports enabled
+80 - http
+443 - https
+ssh
+
+
+Assignment
+
+1. Create a website having landing page,
+sign up, login and contact
+2. Deploy this on EC2 instance
+
+I am a student. I want to create a website for myself.It should have a good landing page,sign up,login and contact us page
+create website using html,css,java script
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

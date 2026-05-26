@@ -1,0 +1,106 @@
+Recap:
+1. Cloud Computing
+running a program,running an application
+monitoring application
+ML,IoT
+Website for your department
+server - buy or hire
+capex
+opex
+Explore and experiment with different
+OS,databases
+scaling
+availability
+
+Cloud Models
+Deployment
+public
+private
+hybrid
+community
+Service
+IAAS - Infrastructure As A service
+PAAS - Platform As A Service
+SAAS - Software As A Service
+Netflix,zoho,gmail,gmeet
+
+Creating account in AWS
+EC2 - Elastic Cloud Compute - IAAS
+Installed a web server - ngInx
+deployed a sample webpage/website
+
+Connect
+1. Create new EC2 instance - give name as your name.. Create new key value pair
+
+chmod 400 awsdemowebsite-kp.pem
+
+
+bash
+git 
+download
+https://git-scm.com/install/windows
+
+
+sudo apt update
+sudo apt install nginx
+
+cd /var/www/html/
+sudo vi inde<tab>
+press i
+modify the file
+to save 
+Esc
+:wq!
+just to quit
+:q!
+
+to stop 
+sudo systemctl stop nginx
+Start NGINX: 
+sudo systemctl start nginx
+
+
+.Stop NGINX: sudo systemctl stop nginx.Restart NGINX: sudo systemctl restart nginx (Stops then starts the service).Reload NGINX: sudo systemctl reload nginx (Applies config changes without dropping active connections).
+
+S3 - Simple Storage Service
+
+data files
+images,audio,video
+
+Scalable storage
+
+search for S3
+create bucket
+upload some files
+
+Static Web site
+
+Deploy website  on S3
+html/CSS
+
+Steps
+1. Create website for your department
+using ai
+mydeptwebsite
+open it in vs code
+code .
+
+I am student of BCA department of New Horizon College,Bengaluru. I want to create a static website using html,css. This website should have a landing page,sign up,login,contact, image gallery, video gallery. Create separate pages for each one of the feature
+2. Deploy it on S3
+hosting static website on s3
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html
+
+bucket name : bcanhc
+
+
+
+ 
+
+
+
+
+
+
+
+
+

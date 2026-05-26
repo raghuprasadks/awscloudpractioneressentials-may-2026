@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#signup">Sign Up</a></li>
+            <li><a href="#login">Login</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h1>Welcome to My Website</h1>
+        <p>This is a modern, student portfolio website.</p>
+    </section>
+    <section id="signup">
+        <h2>Sign Up</h2>
+        <form id="signupForm">
+            <input type="text" id="signupName" placeholder="Name" required><br>
+            <input type="email" id="signupEmail" placeholder="Email" required><br>
+            <input type="password" id="signupPassword" placeholder="Password" required><br>
+            <button type="submit">Sign Up</button>
+        </form>
+        <div id="signupMsg"></div>
+    </section>
+    <section id="login">
+        <h2>Login</h2>
+        <form id="loginForm">
+            <input type="email" id="loginEmail" placeholder="Email" required><br>
+            <input type="password" id="loginPassword" placeholder="Password" required><br>
+            <button type="submit">Login</button>
+        </form>
+        <div id="loginMsg"></div>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form id="contactForm">
+            <input type="text" id="contactName" placeholder="Your Name" required><br>
+            <input type="email" id="contactEmail" placeholder="Your Email" required><br>
+            <textarea id="contactMessage" placeholder="Your Message" required></textarea><br>
+            <button type="submit">Send</button>
+        </form>
+        <div id="contactMsg"></div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
