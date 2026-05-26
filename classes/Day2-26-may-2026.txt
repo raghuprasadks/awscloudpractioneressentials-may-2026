@@ -92,6 +92,26 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.ht
 
 bucket name : bcanhc
 
+git 
+
+www.kaushalya.tech
+git
+repositories
+awscloudpractioneressentials-may-2026
+
+ekaushalya.kaushalya.tech
+
+Serverless Architecture
+Lamdba function
+
+
+
+
+
+
+
+
+
 
 
  
