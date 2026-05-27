@@ -1,0 +1,84 @@
+Agenda:
+1. Recap
+AWS Services EC2,S3,billing/costing
+2. Database Service - RDS - Relational Database
+Service
+3. IAM - Identity And Access Management
+4. CLI - Command Line Interface
+
+Database - place where you can store information
+DBMS - Database Management System
+Specialized software
+
+
+RDBMS - Relational Database Management System
+oracle
+DB2
+Sybase
+MySQL
+MSSQL
+Postgres
+
+amazon.in
+
+Front end - html,css,js
+Back end - application logic,business,database
+
+SQL - Structured Query Language
+1. Create database
+2. Create a table
+3. Insert,update,select,delete
+
+Server,client
+
+amazon for ecommerce
+1. Sign Up - customer -
+id (Primary key),name,mail,phone,address,
+2. Search for a product
+code(primary key),name,description,supplier,price,review
+3.Buy a product
+order - orderid,orderdate,status,customer
+orderdetails
+orderdetailsid,orderid,productcode,rate,qty,amount
+
+download MySQL server community server
+https://dev.mysql.com/downloads/mysql/8.0.html
+
+Search for RDS
+Databases
+Full configuration
+
+download sql client
+MySQL workbench
+https://dev.mysql.com/downloads/workbench/
+download and install
+
+product
+id - int - pk-nn,ai
+name - varchar(100) nn
+supplier -varchar(100) nn
+price-int nn
+
+insert atleast 5 records
+IAM
+User
+Group
+
+AWS CLI 
+
+Command Line Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
