@@ -68,6 +68,42 @@ AWS CLI
 
 Command Line Interface
 
+Download AWS CLI
+
+for windows
+https://awscli.amazonaws.com/AWSCLIV2.msi
+
+Create  a folder awsclidemo
+open terminal
+aws --version
+
+create a user and give name awscliuser
+
+add awsfullaccess as the previlage
+
+ekaushalya.kaushalya.tech
+login
+mcq's
+
+AWS essentials
+Module 2
+
+Clustering and load balancing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
