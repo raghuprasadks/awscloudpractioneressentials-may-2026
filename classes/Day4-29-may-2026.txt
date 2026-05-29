@@ -1,0 +1,64 @@
+Agenda:
+1. Database -
+RDBMS 
+table
+primary key and foreign key
+SQL
+No SQL database
+2. Auto-scaling,availability,load balancing
+3. Networking,Security
+4. End to end demonstration
+5. MCQ's
+Module 7 
+
+Data type - structured (sql database),semi-structured (excel),unstructured
+
+text file
+image
+video
+
+No-sqL
+Not only sql
+no schema
+
+MongoDB - document database
+Graph database - FB,instagram
+key:value pair - Reddis (memory database)
+Netflix,ola,uber,linked-in
+
+AWS - SQL and Not-SQL database
+
+w3schools mongodb
+JSON - Java Script Object Notation
+customer={
+"customerid":1,
+"name":"ravi",
+"location":"Bengaluru",
+"mobile":9845547471,
+"address":{
+"hno":123,
+"area":"Jayanagar",
+"pincode":560012
+}
+}
+
+caching - storing frequently used data
+
+Hands-on
+
+1. Amazon DocumentDB
+dbadmin
+test1234
+
+
+MCQ test data module 5
+
+ekaushalya.kaushalya.tech
+login
+module 7 
+
+Storage solution 
+Billing and cost management
+
+
+
