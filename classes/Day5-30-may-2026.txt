@@ -1,0 +1,63 @@
+Agenda:
+1. Signup to official skill building portal of aws
+https://skillbuilder.aws/ 
+Enroll for AWS Cloud Practitioner Essentials course
+
+MCQ on module 1
+
+module 3- Going global
+Cloud formation
+
+module 4 - networking
+
+Networking 
+
+client facing website
+internal applications which is used by employees
+database
+file server
+private, public
+
+VPC
+
+Module 8 - AI ML
+
+Loading data,training and testing
+fine tuning ML model
+
+Gegerative AI
+chatbot
+language translation
+
+Amazon polly
+Amazon Lex - chatbot
+
+Security
+
+Administrator role
+
+Users,
+Role,
+Group
+Permission
+IAM
+IAM User
+Create User
+Create group
+S3readonly
+
+nhcdemouser1
+
+Authentication - login with credentials
+Authorization - role based feature enablement
+
+Billing and Cost management
+
+
+
+
+
+
+
+
+
