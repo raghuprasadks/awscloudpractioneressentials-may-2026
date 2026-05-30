@@ -13,6 +13,8 @@ Module 7
 
 Data type - structured (sql database),semi-structured (excel),unstructured
 
+https://skillbuilder.aws/
+
 text file
 image
 video
@@ -59,6 +61,21 @@ module 7
 
 Storage solution 
 Billing and cost management
+
+
+Container vs virtual machine
+
+ecommerce
+amazon 
+multiple applications running together
+refund
+container - box
+
+docker
+microservices
+ECR
+VPC,Subnet
+
 
 
 
